@@ -1,6 +1,3 @@
-# emily-rosecrans
-This is my resume.
-<!DOCTYPE HTML>
 <html>
     <head>
         <title>Emily's Resume</title>
@@ -53,9 +50,12 @@ This is my resume.
         <strong> Work Experience </strong> <br>
         Babysitting for Jen Montone (call 949-370-8859 for reference) <br>
         <br>
+        I would be a great worker for other jobs. I am doing an internship this summer for state representative Shawn Dooley at the State House in Boston. I believe I am a good worker because I am driven, skilled at writing, organized, and charasmatic. My hours are very flexible. I commit to any job I am given.
+        <br>
+        <br>
         <strong> School Data </strong> <br>
         GPA: average of 3.45 freshman year; 3.25 sophomore year <br>
-        Awards: academic regonition (grade 8) <br>
+        Awards: academic regonition (grade 8), blue ribbon award (grade 7), Social Studies participation award (grade 7), Science improvement award (grade 7)<br>
         <br>
         <strong> Skills & Interests </strong> <br>
         Public speaking, debate, writing, singing, songwriting, piano, politics and current events
